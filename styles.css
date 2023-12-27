@@ -59,3 +59,9 @@ list-style: none;
 width: 95%;
 text-align: justify;
 }
+
+.done{
+  text-decoration: line-through;
+  background-color: #9c8080!important;
+  color: #000!important;
+}
